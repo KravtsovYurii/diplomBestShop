@@ -1,1 +1,1 @@
-# diplomBestShop
+# diplom in AIS
